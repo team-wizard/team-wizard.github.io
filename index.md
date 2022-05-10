@@ -7,6 +7,7 @@
 
 * [Team Members](#team-members)
 * [Overview](#overview)
+* [Brainstorm](#brainstorm)
 * [Design Sketches](#design-sketches)
 * [Screenshots](#screenshots)
 * [First Demo](#first-demo)
@@ -14,9 +15,23 @@
 * [Trello Board](#trello-board)
 
 ## Team Members
+* Louella Carraang
+  * ICS
+  * Standing
+* Jack Zuelke
+  * ACM
+  * Standing
+* Cameron Sumida
+  * ICS
+  * Senior
 
 ## Overview
-Description
+
+## Brainstorm
+### Louella
+### Jack
+### Cameron
+### Final
 
 ## Design Sketches
 Pictures
