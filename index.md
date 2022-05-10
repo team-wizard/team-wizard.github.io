@@ -27,11 +27,20 @@
 
 ## Overview
 
+
 ## Brainstorm
+
 ### Louella
+![](doc/louellabrainstorm.png)
+
 ### Jack
+![](doc/jackbrainstorm.png)
+
 ### Cameron
-### Final
+![](doc/cameronbrainstorm.png)
+
+### Group
+![](doc/groupbrainstorm2.png)
 
 ## Design Sketches
 Pictures
