@@ -51,4 +51,4 @@ First Demo Video
 ## Final Demo
 
 ## Trello Board
-https://trello.com/b/sTJ1Key2/project-management
+[Trello board](https://trello.com/b/sTJ1Key2/project-management)
