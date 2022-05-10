@@ -14,7 +14,7 @@
 ## Team Members
 * Louella Carraang
   * ICS
-  * Standing
+  * Senior
 * Jack Zuelke
   * ACM
   * Standing
@@ -23,7 +23,7 @@
   * Senior
 
 ## Overview
-A physics pased platformer where you play as a wizard and attempt to get to the goal. Use telekinesis to lift objects to progress through an area and defend yourself against enemy wizards.
+A physics based platformer where you play as a wizard and attempt to get to the goal. Use telekinesis to lift objects to progress through an area and defend yourself against enemy wizards.
 
 ## Brainstorm
 
