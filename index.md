@@ -1,8 +1,5 @@
 # Wizard Game
 
-## URL
-
-
 ## Table of contents
 
 * [Team Members](#team-members)
@@ -26,7 +23,7 @@
   * Senior
 
 ## Overview
-
+A physics pased platformer where you play as a wizard and attempt to get to the goal. Use telekinesis to lift objects to progress through an area and defend yourself against enemy wizards.
 
 ## Brainstorm
 
