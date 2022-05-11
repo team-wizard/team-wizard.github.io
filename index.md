@@ -17,7 +17,7 @@
   * Senior
 * Jack Zuelke
   * ACM
-  * Standing
+  * Senior
 * Cameron Sumida
   * ICS
   * Senior
@@ -31,9 +31,9 @@
   * Player and enemy models
   * Animations
   * Environment design
-  * Textures
+  * Models
   * Puzzle design
-  * Effects
+  * Lighting
 * Cameron Sumida
   * Player controls
   * Camera controls
