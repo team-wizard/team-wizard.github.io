@@ -64,8 +64,8 @@ Pictures
 ![](doc/screenshot1.png)
 ![](doc/screenshot2.png)
 ![](doc/screenshot3.png)
-![](doc/screenshot4.png)
 ![](doc/screenshot5.png)
+![](doc/screenshot4.png)
 ![](doc/screenshot6.png)
 ![](doc/screenshot7.png)
 
