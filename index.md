@@ -1,4 +1,4 @@
-# Wizard Game
+# Kinetic Mountain
 
 ## Table of contents
 
