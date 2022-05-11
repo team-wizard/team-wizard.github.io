@@ -70,7 +70,7 @@ Pictures
 ![](doc/screenshot7.png)
 
 ## First Demo
-<iframe src="https://drive.google.com/file/d/1tOvVrQ-ubf3LQAFzYmaADdsAXQZ87Gqa/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1tOvVrQ-ubf3LQAFzYmaADdsAXQZ87Gqa/preview" width="1080" height="720"></iframe>
 
 ## Final Demo
 
