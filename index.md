@@ -22,7 +22,7 @@
   * ACM
   * Senior
 * Cameron Sumida
-* <img class="ui medium circular image" src="doc/cameronpic.jpg">
+* ![](doc/cameronpic.jpg = 400x400)
   * ICS
   * Senior
 
