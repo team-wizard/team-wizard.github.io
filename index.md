@@ -3,12 +3,14 @@
 ## Table of contents
 
 * [Team Members](#team-members)
+* [Who Did What](#who-did-what)
 * [Overview](#overview)
 * [Brainstorm](#brainstorm)
 * [Design Sketches](#design-sketches)
 * [Screenshots](#screenshots)
 * [First Demo](#first-demo)
 * [Final Demo](#final-demo)
+* [Play Game](#play-game)
 * [Trello Board](#trello-board)
 
 ## Team Members
@@ -58,7 +60,14 @@ A physics based platformer where you play as a wizard and attempt to get to the 
 ![](doc/groupbrainstorm2.png)
 
 ## Design Sketches
-Pictures
+![](doc/Storyboard_1.jpg)
+![](doc/Storyboard_2.jpg)
+![](doc/Storyboard_3.jpg)
+![](doc/Storyboard_4.jpg)
+![](doc/Storyboard_5.jpg)
+![](doc/Storyboard_6.jpg)
+![](doc/ArcherFront.jpg)
+![](doc/ArcherSide.jpg)
 
 ## Screenshots
 ![](doc/screenshot1.png)
@@ -73,6 +82,9 @@ Pictures
 <iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1tOvVrQ-ubf3LQAFzYmaADdsAXQZ87Gqa/preview" width="848" height="480"></iframe>
 
 ## Final Demo
+
+## Play Game
+[Play game on itch.io](https://sumidaca.itch.io/kinetic-mountain)
 
 ## Trello Board
 [Trello board](https://trello.com/b/sTJ1Key2/project-management)
