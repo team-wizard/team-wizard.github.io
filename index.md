@@ -18,13 +18,15 @@
   * ICS
   * Senior
 * Jack Zuelke
-<img src="doc/jack_thumbnail_2.jpg" width=300px>
   * ACM
-  * Senior
+  * Senior\n
+<img src="doc/jack_thumbnail_2.jpg" width=300px>
+  
 * Cameron Sumida
-* <img src="doc/cameronpic.jpg" width=300px>
   * ICS
-  * Senior
+  * Senior\n
+<img src="doc/cameronpic.jpg" width=300px>
+  
 
 ## Who Did What
 * Louella Carraang
