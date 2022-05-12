@@ -66,22 +66,15 @@ A physics based platformer where you play as a wizard and attempt to get to the 
 ![](doc/groupbrainstorm2.png)
 
 ## Design Sketches
-<p float="left">
-  <img src="doc/Storyboard_1.jpg" width="500" />
-  <img src="doc/Storyboard_2.jpg" width="500" />
-</p>
-<p float="left">
-  <img src="doc/Storyboard_3.jpg" width="500" />
-  <img src="doc/Storyboard_4.jpg" width="500" />
-</p>
-<p float="left">
-  <img src="doc/Storyboard_5.jpg" width="500" />
-  <img src="doc/Storyboard_6.jpg" width="500" />
-</p>
-<p float="left">
-  <img src="doc/ArcherFront.jpg" width="500" />
-  <img src="doc/ArcherSide.jpg" width="500" />
-</p>
+
+![](doc/Storyboard_1.jpg)
+![](doc/Storyboard_2.jpg)
+![](doc/Storyboard_3.jpg)
+![](doc/Storyboard_4.jpg)
+![](doc/Storyboard_5.jpg)
+![](doc/Storyboard_6.jpg)
+![](doc/ArcherFront.jpg)
+![](doc/ArcherSide.jpg)
 
 ## Screenshots
 ![](doc/screenshot1.png)
