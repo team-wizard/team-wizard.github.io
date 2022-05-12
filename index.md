@@ -79,7 +79,7 @@ A physics based platformer where you play as a wizard and attempt to get to the 
 ![](doc/screenshot1.png)
 ![](doc/screenshot2.png)
 ![](doc/screenshot3.png)
-![](doc/screenshot5.png)
+![](doc/env3.JPG)
 ![](doc/screenshot4.png)
 ![](doc/screenshot6.png)
 ![](doc/screenshot7.png)
