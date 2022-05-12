@@ -22,7 +22,7 @@
   * ACM
   * Senior
 * Cameron Sumida
-* <img src="doc/cameronpic.jpg" width=400px>
+* <img src="doc/cameronpic.jpg" width=100px>
   * ICS
   * Senior
 
