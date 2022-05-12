@@ -14,9 +14,11 @@
 * [Trello Board](#trello-board)
 
 ## Team Members
-* Louella Carraang
+* Louella Caraang
   * ICS
-  * Senior
+  * Senior<br/>
+<img src="doc/louellapic.jpeg" width=300px>
+
 * Jack Zuelke
   * ACM
   * Senior<br/>
@@ -29,7 +31,7 @@
   
 
 ## Who Did What
-* Louella Carraang
+* Louella Caraang
   * Enemy AI
   * Player and enemy health
   * UI
