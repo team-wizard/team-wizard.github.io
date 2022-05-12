@@ -19,12 +19,12 @@
   * Senior
 * Jack Zuelke
   * ACM
-  * Senior\n
+  * Senior<br/>
 <img src="doc/jack_thumbnail_2.jpg" width=300px>
   
 * Cameron Sumida
   * ICS
-  * Senior\n
+  * Senior<br/>
 <img src="doc/cameronpic.jpg" width=300px>
   
 
