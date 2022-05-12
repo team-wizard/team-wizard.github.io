@@ -79,11 +79,13 @@ A physics based platformer where you play as a wizard and attempt to get to the 
 ## Screenshots
 ![](doc/screenshot1.png)
 ![](doc/screenshot2.png)
-![](doc/screenshot3.png)
 ![](doc/env3.JPG)
 ![](doc/screenshot4.png)
+![](doc/characterRigs.jpg)
 ![](doc/screenshot6.png)
 ![](doc/screenshot7.png)
+![](doc/assetslist.jpg)
+![](doc/textureslist.jpg)
 
 ## First Demo
 <iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1tOvVrQ-ubf3LQAFzYmaADdsAXQZ87Gqa/preview" width="848" height="480"></iframe>
