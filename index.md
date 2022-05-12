@@ -18,6 +18,7 @@
   * ICS
   * Senior
 * Jack Zuelke
+![](jack_thumbnail_2.jpg)
   * ACM
   * Senior
 * Cameron Sumida
